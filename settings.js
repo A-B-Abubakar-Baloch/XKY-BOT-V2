@@ -11,15 +11,15 @@ global.socialm = "GitHub: andymrlit" //ur github or insta name
 global.location = "Haïti, USA" //ur location
 
 //new
-global.botname = 'XKY BOT MD' //ur bot name
-global.ownernumber = '50943772445' //ur owner number
-global.ownername = '🍁🎶𝑀𝑅_𝑂𝐿𝐼 🔱' //ur owner name
-global.websitex = "https://www.youtube.com/@andymd"
-global.wagc = "https://chat.whatsapp.com/Cf1q8yZsEMlIfrZkCeHeQH"
+global.botname = 'A B Abubakar Baloch' //ur bot name
+global.ownernumber = '923461253726' //ur owner number
+global.ownername = 'A B Abubakar Baloch' //ur owner name
+global.websitex = "https://www.youtube.com/@ababubakarbaloch"
+global.wagc = "https://www.youtube.com/@ababubakarbaloch"
 global.themeemoji = '🪀'
 global.wm = "XKY Bot Inc."
 global.ram_usage = 900000000
-global.botscript = 'https://github.com/andymrlit/XKYV2' //script link
+global.botscript = 'https://www.youtube.com/@ababubakarbaloch' //script link
 global.packname = "Sticker By"
 global.author = "TEAM XKY BOT"
 global.creator = "17862755061@s.whatsapp.net"
